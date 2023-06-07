@@ -1,0 +1,175 @@
+body{
+     background: #F9F6F1;
+}
+
+.nav-wrapper{
+      background: #A1887F;
+}
+
+.page-footer{
+     background: #795548;
+}
+
+img{
+     width: 1250px;
+}
+
+.gallery{
+     max-width: 810px;
+}
+
+.brand-logo{
+     font-style: italic;
+}
+
+p{
+font-family: Georgia, serif;
+font-size: 17px;
+}
+
+h5{
+     font-family: Georgia;
+}
+
+h4{
+     color: #1E130A  ;
+     font-style: normal;
+     font-family: Georgia;
+}
+
+.preone{
+     color: #2E1D0E  ;
+     font-style: normal;
+}
+
+.one{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.two{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.three{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.four{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.five{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.six{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.seven{
+     color: #2E1D0E  ;
+     font-style: normal;
+     font-size: 21px
+}
+
+.photo1{
+     width: 25%;
+}
+
+.leftimg {
+     width: 31%;
+     float:left; /* Вирівнювання по лівому краю */
+     margin: 117px 7px 7px 0; /* Відступи навколо картинки */
+}
+
+.lis{
+     font-family: 'Crimson Text', serif;
+     font-size: 50px;
+}
+
+.lol{
+     font-size: 21px; 
+}
+
+.rightimg {
+     width: 29%;
+     float: right; /* Вирівнювання по правому краю */
+     margin: 133px 7px 7px 7px; /* Відступи навколо картинки */
+}
+
+.lis1{
+     font-family: 'Crimson Text', serif;
+     font-size: 50px;
+}
+
+.leftimg1{
+    width: 30%;
+    float:left; /* Вирівнювання по лівому краю */
+    margin: 11px 7px 7px 0; /* Відступи навколо картинки */
+}
+
+.rightimg1 {
+     width: 25%;
+     float: right; /* Вирівнювання по правому краю */
+     margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
+
+.leftimg2{
+     width: 39%;
+     float:left; /* Вирівнювання по лівому краю */
+     margin: 98px 32px 40px 0; /* Відступи навколо картинки */
+}
+
+.lis2{
+     font-family: 'Crimson Text', serif;
+     font-size: 50px;
+     margin: 12px 32px 35px 0;
+}
+
+.lol2{
+     font-size: 21px; 
+     margin: 12px 32px 35px 0;
+}
+
+.pretable{
+    
+     empty-cells: "5";
+     width: 30%;
+     margin: 30px 32px 35px 50px;
+     font-size: 21px; 
+     font-family: Georgia, serif;
+     text-align: center;
+}
+
+th,td{
+   padding:10px;
+}
+
+table,th,td{
+  border: 1px solid grey;
+  text-align:center;
+} 
+
+.lis3{
+     font-family: 'Crimson Text', serif;
+     font-size: 45px;
+     margin: 12px 32px 35px 50px;
+}
+
+.rightimg3 {
+     width: 35%;
+     float: right; /* Вирівнювання по правому краю */
+     margin: 90px 50px 7px 7px; /* Відступи навколо картинки */
+}
